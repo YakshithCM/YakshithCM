@@ -8,6 +8,7 @@
 <div>
 I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sullia,India.
 
+
  ✨ Specializing in front-end development.
 
  ☘️ I'm Currently learning Python.

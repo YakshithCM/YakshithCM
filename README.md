@@ -11,7 +11,7 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
  ✨ Specializing in front-end development.
 
- ☘️ I'm Currently learning Python.
+ ☘️ I'm Currently learning Java.
  
  ⚡ Fun fact **I am funny😅**
 
